@@ -4,7 +4,7 @@ Bahan Ajar Pemrograman Python Dasar - Mengenal Dan Menggunakan Variabel Dengan S
 # Lihat <a href="https://github.com/RizkyKhapidsyah/ScopeGlobalDanLocal__PY/blob/master/ScopeGlobalDanLocal__PY.py">Source Code.</a><br><br>
 
 
-Pengertian scope global dan scope lokal dibawah ini :
+Pengertian scope global dan scope lokal dibawah ini:
 
 Scope Global adalah suatu jenis nama fungsi yang bisa kita ubah isi data fungsi atau data functions di luar fungsi dan bisa diubah kapanpun kita mau. Scope lokal adalah jenis nama fungsi yang tidak dapat diubah datanya di luar fungsi. Scope lokal hanya dapat diubah di dalam fungsi nya itu sendiri . karena itu disebut dengan lokal. sedangkan scope global maksunya data dalam fungsinya bisa di luar fungsi dan kita bisa mesetting apapun . langsung saja Belajar Python Scope Global dan Lokal
 
